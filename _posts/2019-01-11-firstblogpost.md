@@ -1,3 +1,8 @@
+---
+title: First Blog Post
+date: 2019-01-11
+---
+
 # Welcome
 
 __Blog Post 1__
