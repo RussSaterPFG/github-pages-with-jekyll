@@ -1,3 +1,6 @@
-# Welcome to my blog
+# Welcome to Russ' Home Page
 
-I'm glad you are here. I plan to talk about ...
+* Things we'll cover *
+  - **Markdown**
+  - **GitHub Pages**
+  - :+1: **CircleCI**
